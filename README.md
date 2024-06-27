@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```sh
-     git clone [https://github.com/yourusername/todo-app.git](https://github.com/npkarunarathne/Todos/edit/master/README.md)
+    git clone https://github.com/npkarunarathne/Todos.git
     cd todo-app
     ```
 
@@ -28,10 +28,10 @@ Before you begin, ensure you have met the following requirements:
 
 3. **Set up the database:**
 
-    Update the database:**
+    Update the database:** (Package Manager Console)
 
     ```sh
-    dotnet ef database update -c TodosDbContext
+    update-database -context TodosDbContext
     ```
 
 ### Configuration
