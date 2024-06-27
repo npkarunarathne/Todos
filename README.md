@@ -8,7 +8,7 @@ This project is a Todo application built with ASP.NET Core and Entity Framework 
 
 Before you begin, ensure you have met the following requirements:
 
-- [.NET 5.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 8.0 SDK]([https://dotnet.microsoft.com/download/dotnet/8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Installation
@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```sh
-    https://github.com/npkarunarathne/Todos.git
+     git clone [https://github.com/yourusername/todo-app.git](https://github.com/npkarunarathne/Todos/edit/master/README.md)
     cd todo-app
     ```
 
